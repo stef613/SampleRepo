@@ -21,13 +21,13 @@ From the repository root, execute:
 ```bash
 python scripts/add_numbers.py 2 3
 python scripts/string_reverse.py hello
-python scripts/is_even.py 8
+python scripts/is_even.py 15
 ```
 
 To run the R versions:
 
 ```bash
-Rscript scripts/add_numbers.R 2 4
+Rscript scripts/add_numbers.R 6 1
 Rscript scripts/string_reverse.R hello
 Rscript scripts/is_even.R 9
 ```
