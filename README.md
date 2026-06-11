@@ -27,9 +27,9 @@ python scripts/is_even.py 8
 To run the R versions:
 
 ```bash
-Rscript scripts/add_numbers.R 2 3
+Rscript scripts/add_numbers.R 2 4
 Rscript scripts/string_reverse.R hello
-Rscript scripts/is_even.R 8
+Rscript scripts/is_even.R 9
 ```
 
 ## Run unit tests
