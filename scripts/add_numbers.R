@@ -9,6 +9,7 @@ if (length(args) != 2) {
 a <- suppressWarnings(as.numeric(args[1]))
 b <- suppressWarnings(as.numeric(args[2]))
 
+# sample comment
 if (is.na(a) || is.na(b)) {
   stop("Both arguments must be numeric.", call. = FALSE)
 }
